@@ -1,0 +1,6 @@
+{
+    "api": "https://wally.pathos.gg",
+    "fallback_registries": [
+        "https://github.com/UpliftGames/wally-index"
+    ]
+}
